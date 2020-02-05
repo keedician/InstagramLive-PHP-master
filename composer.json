@@ -1,0 +1,5 @@
+{
+    "require": {
+      "mgp25/instagram-php": "dev-master#c095702ce3661cf61a9560798f013cac7db28ce3"
+    }
+}
